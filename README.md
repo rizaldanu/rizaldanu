@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/rizaldanu/make-up-bot/main/img/zenitsu.gif" width="100%" height="250"/>
+<img src="https://raw.githubusercontent.com/rizaldanu/make-up-bot/main/img/zenitsu-full.gif"/>
